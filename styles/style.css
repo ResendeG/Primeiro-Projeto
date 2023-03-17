@@ -39,12 +39,11 @@ body {
 }
 
 .cabecalho__menu__link:hover {
-    color: var(--cor-quartenaria);
+    color: var(--cor-secundaria);
 }
 .titulo-destaque {
     text-decoration: none;
-    color: var(--cor-terciaria);
-    
+    color: var(--cor-terciaria);   
 }
 
 .titulo-destaque:hover {
