@@ -5,6 +5,7 @@
     --cor-secundaria: #222222;
     --cor-terciaria: #22A39F;
     --cor-quartenaria: #00929c;
+    --cor-quintenaria: #FFFFFF;
     --fonte-titulo: 'Krona One', sans-serif;
     --fonte-paragrafo: 'Montserrat', sans-serif;
 }
@@ -106,7 +107,7 @@ body {
 }
 
 .links:hover {
-    background-color: var(--cor-quartenaria);
+    background-color: var(--cor-quintenaria);
 }
 
 .minhas__redes {
