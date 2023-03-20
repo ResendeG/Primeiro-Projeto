@@ -118,17 +118,18 @@ body {
 }
 
 .apresentacao__imagem {
-    width: 50%;
+    width:  30%;
 }
 
 .apresentacao__imagem__resende {
-    width: 30%;
+    width:  350px;
+    height: 600px;
 }
 
 .rodape {
     flex-grow: 110;
     background-color: var(--cor-terciaria);
-    padding: 24px;
+    padding: 28px;
     font-size: 1.2rem;
     font-weight: 400;
     color: var(--cor-primaria);
@@ -147,11 +148,16 @@ body {
    }
     .apresentacao {
         flex-direction: column-reverse;
-        padding: 5%;
+        padding: 5%;        
     }
 
     .apresentacao__conteudo {
         width: auto;
+    }
+
+    .apresentacao__imagem__resende {
+        width: 40%;
+        height: 40%;
     }
 
 }
