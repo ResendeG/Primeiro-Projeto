@@ -4,8 +4,7 @@
 
 # :page_facing_up: Descrição do Projeto
 
-Neste projeto, foi possível criar minhas primeiras páginas web, utilizando HTML e CSS, 
-trabalhando com vários estilos no CSS e também tornarndo o site responsivo para tablet e celulares.
+Neste projeto, foi possível criar minhas primeiras páginas web, utilizando HTML e CSS. Utilizamos o figma para auxiliar na construção do site e transformamos o site responsivo para tablet e celulares.
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/109033101/229846673-d931dddb-b209-4c85-863f-ea9ca9ebc9b4.png" width=1000>
