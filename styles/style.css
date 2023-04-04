@@ -92,7 +92,6 @@ body {
 }
 
 .links {
-    /* background-color: #22D4FD; */
     display: flex;
     justify-content: center;
     gap: 16px;
@@ -110,6 +109,7 @@ body {
 
 .links:hover {
     background-color: var(--cor-quintenaria);
+    border: 4px solid var(--cor-terciaria);;
 }
 
 .minhas__redes {
@@ -121,11 +121,6 @@ body {
 
 .apresentacao__imagem {
     width:  50%;
-}
-
-.apresentacao__imagem__resende {
-    width:  350px;
-    height: 600px;
 }
 
 .rodape {
@@ -154,11 +149,6 @@ body {
 
     .apresentacao__conteudo {
         width: auto;
-    }
-
-    .apresentacao__imagem__resende {
-        width: 40%;
-        height: 40%;
     }
 
 }
