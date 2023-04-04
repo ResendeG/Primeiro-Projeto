@@ -23,7 +23,7 @@ Você pode acessar o código do projeto <a href="https://github.com/ResendeG/Pri
 | [<img src="https://avatars.githubusercontent.com/u/54322854?v=4" width=100><br><sub>Rafaella Ballerini</sub>](https://github.com/rafaballerini) |  [<img src="https://avatars.githubusercontent.com/u/30351153?v=4" width=100><br><sub>Guilherme Lima</sub>](https://github.com/guilhermeonrails) |
 | :---: | :---: |
 
-# :books: Aluno
+# :books: Autor
 
 | [<img src="https://avatars.githubusercontent.com/u/109033101?v=4" width=100><br><sub>Gabriel Resende</sub>](https://github.com/ResendeG) |
 | :---: |
